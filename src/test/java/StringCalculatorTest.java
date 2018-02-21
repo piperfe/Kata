@@ -35,4 +35,11 @@ public class StringCalculatorTest {
 
         assertThat(10, is(result));
     }
+
+    @Test
+    public void add_numbers_n_parameters_with_parameter_in_a_new_line() throws Exception {
+        int result = calculator.sum("1,2,3,4\n5");
+
+        assertThat(15, is(result));
+    }
 }
