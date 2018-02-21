@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringCalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-02-21T02:25:27" hostname="MacBookPiperfe.local" time="0.004">
+  <properties/>
+  <testcase name="add_numbers_one_parameter" classname="StringCalculatorTest" time="0.003"/>
+  <testcase name="add_numbers_empty_string" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="add_numbers_two_parameters" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="add_numbers_n_parameters" classname="StringCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
